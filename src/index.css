@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply ff-m-0 ff-p-0 ff-font-poppins ff-text-white;
+  }
+  p {
+    @apply ff-m-0;
+  }
+}
+
+@layer components {
+  #root {
+    @apply ff-h-screen ff-w-full;
+  }
+}

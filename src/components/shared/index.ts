@@ -1,0 +1,5 @@
+export { default as Header } from "./Header"
+export { default as Footer } from "./Footer"
+export { default as FluxFireLogo } from "./FluxFireLogo"
+export { default as SocialMediaIcon } from "./SocialMediaIcon"
+export { default as ConfluxLogo } from "./ConfluxLogo"
