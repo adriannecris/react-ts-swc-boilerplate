@@ -2,7 +2,7 @@ import { FluxFireLogo, SocialMediaIcon } from "."
 
 export default function Footer() {
   return (
-    <div className="ff-flex ff-h-[21.75rem] ff-flex-col ff-justify-end ff-gap-y-6 ff-p-6">
+    <div className="ff-flex ff-h-[21.75rem] ff-flex-col ff-justify-end ff-gap-y-6 ff-p-6 md:ff-px-[10%]">
       <FluxFireLogo logoClassName="ff-w-9" />
       <div className="ff-h-px ff-w-full ff-border ff-border-solid ff-border-hr ff-border-opacity-40" />
       <div className="ff-flex ff-flex-col ff-gap-y-6 md:ff-flex-row md:ff-justify-between">
