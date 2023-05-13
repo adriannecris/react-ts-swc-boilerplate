@@ -34,11 +34,11 @@ export default function Home() {
               src="/home/builder.svg"
               className="ff-mx-auto ff-h-auto ff-max-h-[28.125rem] ff-w-full ff-max-w-[28.125rem]"
             />
-            <div className="ff-flex ff-flex-col ff-gap-y-5 md:ff-max-w-[36.25rem]">
+            <div className="ff-flex ff-flex-col ff-gap-y-5 md:ff-max-w-[41.75rem]">
               <p className="ff-text-2xl ff-font-semibold ff-text-primary md:ff-text-2xl">BUILDER FRIENDLY</p>
               <p className="ff-text-xl md:ff-text-2xl md:ff-leading-[2.25rem]">
-                FluxFire is the trusted partner for the Conflux community, offering comprehensive support, funding, and resources to help
-                builders bring their projects to life.{" "}
+                Experienced team provides personalized support and mentoring, helping projects succeed with a focus on innovation,
+                sustainability, and community impact.
               </p>
             </div>
           </div>
